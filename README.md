@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+Ololo ololo its my new file))
